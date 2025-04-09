@@ -1,0 +1,22 @@
+body{margin: 0;
+   background-image: url(image/download\ \(2\).jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: aliceblue;
+    padding: 5px;
+   
+
+}
+.head{
+    justify-content: center;
+    text-align: center;
+    color: #ffff;
+}
+span{
+    padding: 10px;
+}
